@@ -1,16 +1,42 @@
 # azumo_cats
 
-A new Flutter project.
+Azumo Cats is a flutter application for fetching a random cat gif from the api and show it on screen upon a button click.
 
-## Getting Started
+## How to use
 
-This project is a starting point for a Flutter application.
+<h4>Step 2:</h4>
 
-A few resources to get you started if this is your first Flutter project:
+Download or clone this repo by using the link below:
+```
+https://github.com/kyrodevs/azumo_cats.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h4>Step 2:</h4>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to project root and execute the following command in console to get the required dependencies:
+```
+flutter pub get 
+```
+
+<h4>Step 3:</h4>
+
+Execute the following command while your Android Emulator or phone is connected:
+```
+flutter run
+```
+
+<h4>Step 4:</h4>
+
+Press the 'Meow' button and get and awesome cat gif!
+
+
+
+<h3>Features:</h3>
+
+- Home
+- Routing
+- Theme
+- Http
+- Database
+- GetX (State Management)
+
