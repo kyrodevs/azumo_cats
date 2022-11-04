@@ -1,4 +1,4 @@
-# azumo_cats
+# flutter-cat-gifs
 
 This is a flutter application for fetching a random cat gif from the api and show it on screen upon a button click.
 
