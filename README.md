@@ -1,6 +1,6 @@
 # azumo_cats
 
-Azumo Cats is a flutter application for fetching a random cat gif from the api and show it on screen upon a button click.
+This is a flutter application for fetching a random cat gif from the api and show it on screen upon a button click.
 
 ## How to use
 
